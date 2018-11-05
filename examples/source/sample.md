@@ -1,5 +1,5 @@
 # Shantanu Tushar
-## Modern Qt/C++, Go developer
+## Qt/C++, Go developer
 
 > [shaan7in@gmail.com](mailto:shaan7in@gmail.com)
 
