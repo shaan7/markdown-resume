@@ -1,9 +1,9 @@
 # Shantanu Tushar
 ## Modern Qt/C++, Go developer
 
-> [shaan7in@gmail.com](shaan7in@gmail.com)
+> [shaan7in@gmail.com](mailto:shaan7in@gmail.com)
 
-> [github.com/shaan7](github.com/shaan7)
+> [github.com/shaan7](https://github.com/shaan7)
 
 ------
 
