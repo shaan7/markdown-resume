@@ -41,23 +41,16 @@ SoStronk
   __2014-present__
   Laid the foundations, implemented and maintained SoStronk's cross-platform desktop application. With a focus on performance, the app's fluid interface helps players find the match they are interested in.
 
-SoStronk
 : *Engineering - CS:GO Anticheat*
-  __2014-present__
   Responding to popular demand, SoStronk Anticheat uses powerful kernel-based protection against cheats and other bad actors. The solution tightly integrates a Windows Kernel Driver, NT Service and CS:GO Helper Library. This complexity is invisible to the player with one-click installs and automatic error reporting.
 
 : *Engineering - CS:GO Matchmaking*
-  __2014-present__
   Started from scratch and implemented a Glicko2-based matchmaking platform. The delicate balance of "the best match" and "the quickest match" was the result of algorithm optimizations that leverage knowledge about the game.
 
-SoStronk
 : *Engineering - SoStronk API*
-  __2014-present__
   Worked on statemachine-based distributed game lobbies that provides API starting from matchmaking to gameserver interaction. Based on Go and Google App Engine, SoStronk's player lobbies can scale to almost any load.
 
-SoStronk
 : *Product Analytics & Customer Support*
-  __2014-present__
   Worked closely with product ideation making sure that features are designed with Mixpanel analytics and user feedback in mind. Frugal handling of Customer Support with deep understanding of the platform helped keep users happy.
 
 KDE Community
@@ -69,6 +62,11 @@ ThoughtWorks
 : *Application Developer - Rackspace Hosting*
   __2012-2014__
   Worked on automatic zero downtime migration of 1000+ legacy Slicehost customers from a Rails-based cloud platform to modern OpenStack-based Rackspace platform.
+
+Hewlett-Packard Enterprise
+: *Systems Software Engineer - HP NonStop*
+  __2011-2012__
+  Worked on automating quality assurance test suites.
 
 ------
 
