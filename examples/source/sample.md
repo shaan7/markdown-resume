@@ -1,61 +1,128 @@
-# Craig Davis
-## Senior PHP Developer, UX Director
+# Shantanu Tushar
+## Modern Qt/C++, Go developer
 
-> [Download PDF](resume.pdf)  
-> [craig@there4development.com](craig@there4development.com)  
-> (999) 888-7777
+> [shaan7in@gmail.com](shaan7in@gmail.com)
+
+> [github.com/shaan7](github.com/shaan7)
 
 ------
 
-### Profile {#profile}
+### Objective {#objective}
 
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change.
+Design elegant and usable software that delights users
 
 ------
 
 ### Skills {#skills}
 
-* Web Design
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+* Usable Desktop Software
 
-* Interface Design
-  : Credibly streamline mission-critical value with multifunctional functionalities.
+* Scalable Webservices
 
-* Project Direction
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
+* Linux System Administration
 
 -------
 
 ### Technical {#technical}
 
-1. XHTML
-1. CSS
-1. Javascript
-1. Jquery
-1. PHP
-1. CVS / Subversion
-1. OS X
-1. Windows XP/Vista
-1. Linux
+1. Qt5 / QML
+2. Modern C++
+3. GCP Datastore / MySQL
+4. Google Go
+5. Linux / Docker
+6. HTML / CSS / JS
 
 ------
 
 ### Experience {#experience}
 
-Initrode Conglomerated
-: *Principal and Creative Lead*
-  __2004-2005__
-  Intrinsicly transform flexible manufactured products without excellent intellectual capital. Energistically evisculate orthogonal architectures through covalent action items. Assertively incentivize sticky platforms without synergistic materials.
+SoStronk
+: *Tech Lead - Desktop App*
+  __2014-present__
+  Laid the foundations, implemented and maintained SoStronk's cross-platform desktop application. With a focus on performance, the app's fluid interface helps players find the match they are interested in.
 
-Gizmonic Institute Company (GIM)
-: *Lead Web Designer*
-  __2001-2004__
-  Globally re-engineer cross-media schemas through viral methods of empowerment. Proactively grow long-term high-impact human capital and highly efficient innovation. Intrinsicly iterate excellent e-tailers with timely e-markets.
+SoStronk
+: *Engineering - CS:GO Anticheat*
+  __2014-present__
+  Responding to popular demand, SoStronk Anticheat uses powerful kernel-based protection against cheats and other bad actors. The solution tightly integrates a Windows Kernel Driver, NT Service and CS:GO Helper Library. This complexity is invisible to the player with one-click installs and automatic error reporting.
+
+: *Engineering - CS:GO Matchmaking*
+  __2014-present__
+  Started from scratch and implemented a Glicko2-based matchmaking platform. The delicate balance of "the best match" and "the quickest match" was the result of algorithm optimizations that leverage knowledge about the game.
+
+SoStronk
+: *Engineering - SoStronk API*
+  __2014-present__
+  Worked on statemachine-based distributed game lobbies that provides API starting from matchmaking to gameserver interaction. Based on Go and Google App Engine, SoStronk's player lobbies can scale to almost any load.
+
+SoStronk
+: *Product Analytics & Customer Support*
+  __2014-present__
+  Worked closely with product ideation making sure that features are designed with Mixpanel analytics and user feedback in mind. Frugal handling of Customer Support with deep understanding of the platform helped keep users happy.
+
+KDE Community
+: *Contributor - Plasma Desktop Shell, KDE India*
+  __2008-present__
+  Contributed code to the KDE Plasma Shell while still in college. Patches ranged from bug fixes to new features to improve usability.
+
+ThoughtWorks
+: *Application Developer - Rackspace Hosting*
+  __2012-2014__
+  Worked on automatic zero downtime migration of 1000+ legacy Slicehost customers from a Rails-based cloud platform to modern OpenStack-based Rackspace platform.
 
 ------
+
+### Activities {#activities}
+
+Linux Shell Scripting Cookbook, 2nd edition
+: *Author - PacktPub*
+  __2013__
+  Authored a cookbook with simple recipes to automate everyday tasks. The book was received well by sysadmins and students alike.
+
+Google Summer of Code
+: *Mentor - Plasma Media Center*
+  __2012__
+  Mentored a student for the Plasma Media Center project.
+
+Google Summer of Code
+: *Student - Gluon Gaming Freedom*
+  __2010, 2011__
+  Worked on the Player application for Gluon Gaming Freedom framework that allows creators to create 2D games from an IDE and seamlessly deploy to any device with Qt.
+
+KDE India
+: *conf.kde.in - Organizer (2011), Speaker*
+  __2011-present__
+  Regular speaker at local KDE conferences to motivate students to contribute to Open Source.
+
+
+------
+
+### When I'm bored {#hobbies}
+
+Home Automation
+: *Home Assistant*
+  DIY setup of sensors and relays for rule-based declarative automation of household electronics.
+
+Nextcloud
+: *Cloud storage and Contacts*
+  Container-based fast Nextcloud instances scaled across embedded boards.
+
+
+------
+
+### Education {#education}
+
+Bachelor of Engineering
+: *Computer Science & Engineering - BMSCE, Bangalore*
+  __2007-2011__
+
+
+------
+
 
 ### Footer {#footer}
 
-Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777
+Shantanu Tushar -- [shaan7in@gmail.com](shaan7in@gmail.com) -- (+91) 9972854774
 
 ------
+
