@@ -28,7 +28,7 @@ Design elegant and usable software that delights users
 1. Qt5 / QML
 2. Modern C++
 3. GCP Datastore / MySQL
-4. Google Go
+4. Go
 5. Linux / Docker
 6. HTML / CSS / JS
 
