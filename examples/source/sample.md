@@ -39,7 +39,7 @@ Design elegant and usable software that delights users
 SoStronk
 : *Tech Lead - Desktop App*
   __2014-present__
-  Laid the foundations, implemented and maintained SoStronk's cross-platform desktop application. With a focus on performance, the app's fluid interface helps players find the match they are interested in.
+  Laid the foundations, implemented and maintained SoStronk's cross-platform desktop application. Based on Qt5/QML and a focus on performance, the app's fluid interface helps players find the match they are interested in.
 
 : *Engineering - CS:GO Anticheat*
   Responding to popular demand, SoStronk Anticheat uses powerful kernel-based protection against cheats and other bad actors. The solution tightly integrates a Windows Kernel Driver, NT Service and CS:GO Helper Library. This complexity is invisible to the player with one-click installs and automatic error reporting.
