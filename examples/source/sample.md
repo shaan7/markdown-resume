@@ -36,25 +36,25 @@ Design elegant and usable software that delights users
 
 ### Experience {#experience}
 
-[SoStronk](https://www.sostronk.com/app)
-: *Tech Lead - Qt5/QML/C++ based Desktop App*
+Tech Lead - [SoStronk](https://www.sostronk.com/app)
+: *Desktop App (based on Qt5/QML and C++)*
   __2014-present__
   Laid the foundations, implemented and maintained SoStronk's cross-platform desktop application. Based on Qt5/QML and a focus on performance, the app's fluid interface helps players find the match they are interested in.
 
-: *Senior Software Engineer - CS:GO Anticheat*
-  Responding to popular demand, SoStronk Anticheat uses powerful kernel-based protection against cheats and other bad actors. The solution tightly integrates a Windows Kernel Driver, NT Service and CS:GO Helper Library. This complexity is invisible to the player with one-click installs and automatic error reporting.
+: *SoStronk API (based on Go and Google Cloud)*
+  Worked on statemachine-based distributed game lobbies that provides API starting from matchmaking to gameserver interaction. Based on Go and Google App Engine, SoStronk's player lobbies can scale to almost any load.
 
-: *Senior Software Engineer - CS:GO Matchmaking (based on Go and Google Cloud)*
+: *CS:GO Matchmaking (based on Go and Google Cloud)*
   Started from scratch and implemented a Glicko2-based matchmaking platform. The delicate balance of "the best match" and "the quickest match" was the result of algorithm optimizations that leverage knowledge about the game.
 
-: *Senior Software Engineer - SoStronk API (based on Go and Google Cloud)*
-  Worked on statemachine-based distributed game lobbies that provides API starting from matchmaking to gameserver interaction. Based on Go and Google App Engine, SoStronk's player lobbies can scale to almost any load.
+: *CS:GO Anticheat (Win32 Kernel API and C++)*
+  Responding to popular demand, SoStronk Anticheat uses powerful kernel-based protection against cheats and other bad actors. The solution tightly integrates a Windows Kernel Driver, NT Service and CS:GO Helper Library. This complexity is invisible to the player with one-click installs and automatic error reporting.
 
 : *Contributor - Product Analytics & Customer Support*
   Worked closely with product ideation making sure that features are designed with Mixpanel analytics and user feedback in mind. Frugal handling of Customer Support with deep understanding of the platform helped keep users happy.
 
 KDE Community
-: *Contributor - Qt5/QML/C++ based Plasma Desktop Shell, KDE India*
+: *Contributor - Qt5/QML/C++ based Plasma Desktop Shell*
   __2008-present__
   Contributed code to the KDE Plasma Shell while still in college. Patches ranged from bug fixes to new features to improve usability.
 
@@ -83,7 +83,6 @@ Google Summer of Code
   __2012__
   Mentored a student for the Plasma Media Center project.
 
-Google Summer of Code
 : *Student - Gluon Gaming Freedom*
   __2010, 2011__
   Worked on the Player application for Gluon Gaming Freedom framework that allows creators to create 2D games from an IDE and seamlessly deploy to any device with Qt.
