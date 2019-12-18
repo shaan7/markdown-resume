@@ -1,5 +1,5 @@
 # Shantanu Tushar
-## Qt/C++, Go developer
+## Qt/QML/C++, Go developer
 
 > [shaan7in@gmail.com](mailto:shaan7in@gmail.com)
 
@@ -36,10 +36,10 @@ Design elegant and usable software that delights users
 
 ### Experience {#experience}
 
-Tech Lead - [SoStronk](https://www.sostronk.com/app)
+Head of Engineering - [SoStronk](https://www.sostronk.com/app)
 : *Desktop App (based on Qt5/QML and C++)*
   __2014-present__
-  Laid the foundations, implemented and maintained SoStronk's cross-platform desktop application. Based on Qt5/QML and a focus on performance, the app's fluid interface helps players find the match they are interested in.
+  Laid the foundations, implemented and maintained SoStronk's cross-platform desktop application. Based on Qt5/QML and a focus on performance, the app's fluid interface helps players find the matches they are interested in.
 
 : *SoStronk API (based on Go and Google Cloud)*
   Worked on statemachine-based distributed game lobbies that provides API starting from matchmaking to gameserver interaction. Based on Go and Google App Engine, SoStronk's player lobbies can scale to almost any load.
@@ -51,7 +51,7 @@ Tech Lead - [SoStronk](https://www.sostronk.com/app)
   Responding to popular demand, SoStronk Anticheat uses powerful kernel-based protection against cheats and other bad actors. The solution tightly integrates a Windows Kernel Driver, NT Service and CS:GO Helper Library. This complexity is invisible to the player with one-click installs and automatic error reporting.
 
 : *Contributor - Product Analytics & Customer Support*
-  Worked closely with product ideation making sure that features are designed with Mixpanel analytics and user feedback in mind. Frugal handling of Customer Support with deep understanding of the platform helped keep users happy.
+  Worked closely with product ideation making sure that features are designed with Mixpanel analytics and user feedback in mind. Frugal handling of Customer Support with deep understanding of the platform helped in keeping users happy.
 
 KDE Community
 : *Contributor - Qt5/QML/C++ based Plasma Desktop Shell*
